@@ -51,3 +51,20 @@ input {
 .opArit:hover {
   background-color: #39c7ff;
 }
+
+#refresh {
+  background-color: #b4b4b4;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  padding: 5px 20px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 0px;
+  transition: 0.4ms;
+}
+
+#refresh:hover {
+  background-color: #39c7ff;
+}
